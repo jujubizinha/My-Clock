@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+h1 {
+  text-emphasis: center;
+  color: black;
+  margin: 200px;
+  font-size: 3.5rem;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  margin-left: 37%;
+}
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: blue;
+  font-size: 60px;
+  font-family: "lato", "Lucida Sans";
+  letter-spacing: 7px;
+}
